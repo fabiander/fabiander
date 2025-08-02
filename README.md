@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Erwin Fabián Ortega Navas
 
-<!--
-**fabiander/fabiander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ **Desarrollador Junior**  
+🎓 Tecnólogo en **Análisis y Desarrollo de Software**  
+💡 Apasionado por crear soluciones prácticas, bien estructuradas y orientadas a resultados.
 
-Here are some ideas to get you started:
+🔧 He trabajado con tecnologías como:  
+**Python**, **Flutter**, **Desarrollo Web**, **.NET**, **SQL Server**, **Oracle**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Me interesa todo el ciclo de vida del software, desde la arquitectura hasta la entrega.  
+🤝 Disfruto participar en proyectos colaborativos, presentar soluciones y resolver problemas reales con código.  
+📚 Siempre estoy en constante aprendizaje
+
+📫 **Puedes contactarme aquí:**  
+[🔗 LinkedIn](https://www.linkedin.com/in/fabian-ortega1)
+
+
