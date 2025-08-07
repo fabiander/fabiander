@@ -2,8 +2,8 @@
 
 ⚡**Desarrollador Junior**  
 • Tecnólogo en **Análisis y Desarrollo de Software**  
-• Apasionado por crear soluciones prácticas, bien estructuradas y orientadas a resultados.  
-• Me interesa todo el ciclo de vida del software, desde la arquitectura hasta la entrega.  
+• Apasionado por crear soluciones prácticas, estructuradas y orientadas.  
+• Me interesa todo el ciclo del software, desde la arquitectura hasta la entrega.  
 • Disfruto participar en proyectos colaborativos, presentar soluciones y resolver problemas reales con código.  
 • Siempre estoy en constante aprendizaje.
 
