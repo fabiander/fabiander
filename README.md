@@ -1,8 +1,13 @@
 ## 👋 ¡Hola! Soy Erwin Fabián Ortega Navas
 
-⚡ **Desarrollador Junior**  
-🎓 Tecnólogo en **Análisis y Desarrollo de Software**  
-💡 Apasionado por crear soluciones prácticas, bien estructuradas y orientadas a resultados.
+⚡**Desarrollador Junior**  
+• Tecnólogo en **Análisis y Desarrollo de Software**  
+• Apasionado por crear soluciones prácticas, bien estructuradas y orientadas a resultados.  
+• Me interesa todo el ciclo de vida del software, desde la arquitectura hasta la entrega.  
+• Disfruto participar en proyectos colaborativos, presentar soluciones y resolver problemas reales con código.  
+• Siempre estoy en constante aprendizaje.
+
+### 🔧 Tecnologías con las que he trabajado:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -13,12 +18,10 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### 🔗 Puedes encontrarme aquí:
 
-🚀 Me interesa todo el ciclo de vida del software, desde la arquitectura hasta la entrega.  
-🤝 Disfruto participar en proyectos colaborativos, presentar soluciones y resolver problemas reales con código.  
-📚 Siempre estoy en constante aprendizaje
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-ortega1)
 
-📫 **Puedes contactarme aquí:**  
-[🔗 LinkedIn](https://www.linkedin.com/in/fabian-ortega1)
+
 
 
