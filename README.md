@@ -4,7 +4,6 @@
 🎓 Tecnólogo en **Análisis y Desarrollo de Software**  
 💡 Apasionado por crear soluciones prácticas, bien estructuradas y orientadas a resultados.
 
-🔧 He trabajado con tecnologías como:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
